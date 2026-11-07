@@ -1,0 +1,96 @@
+{
+    "chart_title": "2017 NFL Quarterback Statistics",
+    "data_points": [
+        {
+            "label": "Tom Brady",
+            "Passing Yds": 4577,
+            "Completion Percentage": 66.3,
+            "Passing Touchdowns": 32,
+            "Passer Rating": 102.8,
+            "Interceptions": 8,
+            "Rushing Yards": 28
+
+        },
+        {
+            "label": "Philip Rivers",
+            "Passing Yds": 4515,
+            "Completion Percentage": 62.6,
+            "Passing Touchdowns": 28,
+            "Passer Rating": 96.0,
+            "Interceptions": 10,
+            "Rushing Yards": -2
+        },
+        {
+            "label": "Matthew Stafford",
+            "Passing Yds": 4446,
+            "Completion Percentage": 65.7,
+            "Passing Touchdowns": 29,
+            "Passer Rating": 99.3,
+            "Interceptions": 10,
+            "Rushing Yards": 98 
+        },
+        {
+            "label": "Drew Brees",
+            "Passing Yds": 4334,
+            "Completion Percentage": 72.0,
+            "Passing Touchdowns": 23,
+            "Passer Rating": 103.9,
+            "Interceptions": 8,
+            "Rushing Yards": 12
+        },
+        {
+            "label": "Ben Roethlisberger",
+            "Passing Yds": 4251,
+            "Completion Percentage": 64.2,
+            "Passing Touchdowns": 28,
+            "Passer Rating": 93.4,
+            "Interceptions": 14,
+            "Rushing Yards": 47 
+        },
+        {
+            "label": "Matt Ryan",
+            "Passing Yds": 4095,
+            "Completion Percentage": 64.7,
+            "Passing Touchdowns": 20,
+            "Passer Rating": 91.4,
+            "Interceptions": 12,
+            "Rushing Yards": 143 
+        },
+        {
+            "label": "Kirk Cousins",
+            "Passing Yds": 4093,
+            "Completion Percentage": 64.3,
+            "Passing Touchdowns": 27,
+            "Passer Rating": 93.9,
+            "Interceptions": 13,
+            "Rushing Yards": 179 
+        },
+        {
+            "label": "Alex Smith",
+            "Passing Yds": 4042,
+            "Completion Percentage": 67.5,
+            "Passing Touchdowns": 26,
+            "Passer Rating": 104.7,
+            "Interceptions": 5,
+            "Rushing Yards": 355
+        },
+        {
+            "label": "Russell Wilson",
+            "Passing Yds": 3983,
+            "Completion Percentage": 61.3,
+            "Passing Touchdowns": 34,
+            "Passer Rating": 95.4,
+            "Interceptions": 11,
+            "Rushing Yards": 586
+        },
+        {
+            "label": "Jared Goff",
+            "Passing Yds": 3804,
+            "Completion Percentage": 62.1,
+            "Passing Touchdowns": 28,
+            "Passer Rating": 100.5,
+            "Interceptions": 7,
+            "Rushing Yards": 51 
+        }
+    ]
+}
